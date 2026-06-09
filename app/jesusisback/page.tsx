@@ -24,7 +24,7 @@ export default function JesusIsBack() {
       <section className="flex flex-1 flex-col items-center justify-center px-6 py-20 text-center">
         {/* Wordmark — serif, larger */}
         <p
-          className="mb-10 text-4xl md:text-5xl"
+          className="mb-10 text-4xl md:text-5xl italic"
           style={{ fontFamily: "var(--font-playfair)", color: "#1c1c1c", letterSpacing: "0.15em" }}
         >
           / cntr /

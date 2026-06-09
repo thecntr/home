@@ -5,7 +5,7 @@ export default function Home() {
       style={{ backgroundColor: "#faf8f5" }}
     >
       <p
-        className="text-5xl md:text-6xl"
+        className="text-5xl md:text-6xl italic"
         style={{
           fontFamily: "var(--font-playfair)",
           color: "#1c1c1c",
